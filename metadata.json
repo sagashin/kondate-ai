@@ -1,0 +1,6 @@
+{
+  "name": "Kondate AI - スマート献立＆YouTubeレシピ連携",
+  "description": "マンネリを完全防止する超スマート献立提案エンジンとYouTube人気レシピ検索・冷蔵庫＆買い物リスト管理を備えたモバイルファーストPWAアプリ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
